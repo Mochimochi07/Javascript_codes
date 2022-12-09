@@ -26,4 +26,6 @@ document.getElementById('demo').innerHTML = Date()
 
 Yeah. i loved that kind of syntax and its pretty neat to use.
 
+The fundamentals are random by the way.
+
 
