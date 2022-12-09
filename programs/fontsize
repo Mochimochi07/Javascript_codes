@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>FONT SIZE</h2>
+
+<p id="fsize">What's it gonna be?</p>
+
+<button type="button" onclick="document.getElementById('fsize').style.fontSize='69px'">Click Me!</button>
+
+</body>
+</html> 
