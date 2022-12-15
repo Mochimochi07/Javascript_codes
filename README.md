@@ -2,11 +2,11 @@
 
 This is my javascript repository. 
 
-I left golang for a while to study full stack development in javascript.
+I left golang for a while to study full stack development and datascience  in javascript.
 
 I will be going back to golang after i learned some new things.
 
-I found out that there were tons of stacks and resources in javascript that i can use to improve my building skills for apps and microservices.
+I found out that there were tons of stacks and resources in javascript that i can use to improve my building skills for datascience and microservices.
 
 More like having fun while editing an html would be good choice.
 
@@ -18,14 +18,18 @@ I went along with my curiosity so that i might learn about javascript.
 
 I will be experimenting and documenting more on this style of learning.
 
+I kinda need some things to make dashboards. 
+
+dashboards are highly needed for data science.
+
 Turns out that javascript was a good choice because it reminded me of Xojo.
 
 Parts where i just use dots and make it easy to read the attributes like this.
 
 document.getElementById('demo').innerHTML = Date()
 
-Yeah. i loved that kind of syntax and its pretty neat to use.
+Yeah. i kind of miss using xojo.
 
-The fundamentals are random by the way.
+The fundamentals are frontend and random by the way.
 
 
